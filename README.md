@@ -1,4 +1,5 @@
-Buenos Aires, Argentina
+Buenos Aires, Argentina.
+
 Check my [Codeberg](https://codeberg.org/rawqo/).
 
 <!--
