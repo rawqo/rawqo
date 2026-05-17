@@ -1,3 +1,3 @@
-Buenos Aires, Argentina.
+Argentina.
 
 [Codeberg](https://codeberg.org/rawqo/)
