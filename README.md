@@ -2,8 +2,6 @@ Buenos Aires, Argentina.
 
 [Codeberg](https://codeberg.org/rawqo/).
 
-[Dotfiles](https://codeberg.org/rawqo/dotfiles).
-
 <!--
 **rawqo/rawqo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
